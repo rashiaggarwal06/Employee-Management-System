@@ -46,4 +46,4 @@ A simple **Employee Management System** built with **Python**, **Tkinter UI**, *
 3. The system handles simple CRUD operations with a clean Tkinter interface.
 
 ## Author 
-https://github.com/rashiaggarwal06
+Rashi Aggarwal - https://github.com/rashiaggarwal06
