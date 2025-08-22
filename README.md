@@ -48,5 +48,5 @@ A simple **Employee Management System** built with **Python 🐍**, **Tkinter UI
 ## Author 👩‍💻
 
 Rashi Aggarwal<br>
-<a href="https://github.com">GitHub 🐱‍💻</a><br>
-<a href="https://linkedin.com">LinkedIn 🔗</a>
+<a href="https://github.com/rashiaggarwal06">GitHub 🐱‍💻</a><br>
+<a href="https://www.linkedin.com/in/rashiaggarwal06/">LinkedIn 🔗</a>
