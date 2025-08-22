@@ -2,7 +2,6 @@
 
 A simple **Employee Management System** built with **Python 🐍**, **Tkinter UI 🖥️**, **SQLite 🗄️** database, and CSV export functionality 📄. This application allows you to **Add ➕**, **View 👀**, **Update ✏️**, **Delete 🗑️**, and **Export 📤** employee records in a user-friendly graphical interface.
 
----
 
 ## Features ✨
 
@@ -14,7 +13,6 @@ A simple **Employee Management System** built with **Python 🐍**, **Tkinter UI
 - **Database 🗄️**: Uses SQLite (`employees.db`) to store all employee data.
 - **GUI 🖥️**: Modern and clean Tkinter interface with styled buttons 🎨.
 
----
 
 ## Requirements 🛠️
 
@@ -23,7 +21,6 @@ A simple **Employee Management System** built with **Python 🐍**, **Tkinter UI
 - SQLite3 (comes pre-installed with Python) 🗄️
 - CSV module (comes pre-installed with Python) 📄
 
----
 
 ## Installation & Setup ⚙️
 
@@ -31,7 +28,6 @@ A simple **Employee Management System** built with **Python 🐍**, **Tkinter UI
 2. Make sure you have **Python 3** installed 🐍.
 3. Run the Python script: `python employee.py` ▶️
 
----
 
 ## Usage 📝
 
@@ -41,7 +37,6 @@ A simple **Employee Management System** built with **Python 🐍**, **Tkinter UI
 4. **Delete Employee 🗑️:** Click "Delete Employee" and provide the Employee ID 🆔.
 5. **Export to CSV 📤:** Click "Export to CSV" to save all records to `employees.csv` 📄.
 
----
 
 ## Notes 📝
 
@@ -49,7 +44,6 @@ A simple **Employee Management System** built with **Python 🐍**, **Tkinter UI
 2. CSV file (`employees.csv`) is created in the same directory when exporting 📄.
 3. The system handles simple CRUD operations with a clean Tkinter interface 🖥️.
 
----
 
 ## Author 👩‍💻
 
