@@ -25,5 +25,16 @@ A simple **Employee Management System** built with **Python**, **Tkinter UI**, *
 
 ---
 
-## File Structure
+## Installation & Setup
+
+1. **Clone or download** this repository.
+2. Make sure you have **Python 3** installed.
+3. Run the Python script:
+
+```bash
+python employee.py
+
+
+## Usage
+
 
